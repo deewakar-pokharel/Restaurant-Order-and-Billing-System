@@ -1,0 +1,10 @@
+FOOD
+101,Chicken Momo,150,Spicy
+102,Veg Fried Rice,120,Mild
+103,Chowmein,110,Medium
+104,Buff Sekuwa,220,Spicy
+DRINK
+201,Coke,60,Medium
+202,Lassi,80,Large
+203,Tea,30,Small
+204,Coffee,50,Small
